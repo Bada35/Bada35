@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Bada35/Bada35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6FC7E1,100:2797b9&height=185&section=header&text=Hola!%20I'm%20Jisu%20Seo🙋🏻‍♀️&fontColor=f7f5f5&fontSize=35&fontAlignY=38&animation=fadeIn)
+<p align="center">안녕하세요!!!!!!!!!!!!!!!!!!!</p>
