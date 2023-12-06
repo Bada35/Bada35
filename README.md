@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6FC7E1,100:2797b9&height=185&section=header&text=Hola!%20I'm%20Jisu%20Seo🙋🏻‍♀️&fontColor=f7f5f5&fontSize=35&fontAlignY=38&animation=fadeIn)
-<p align="center">Hi There! I'm Jisu Seo, hoping for an embedded developer.<br>I majored in electronics and have worked on various projects.<br>Aren't you curious about me?😉</p>
+<p align="center">Hi There! I'm Jisu Seo, hoping for an embedded developer.<br>I majored in electronics and have worked on various projects.<br>Aren't you curious about me?😉<br><br><br></p>
+
+---
